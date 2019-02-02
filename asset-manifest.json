@@ -8,10 +8,10 @@
   "runtime~main.js": "/lodestar/static/js/runtime~main.b2219a95.js",
   "runtime~main.js.map": "/lodestar/static/js/runtime~main.b2219a95.js.map",
   "static/media/mdb.css": "/lodestar/static/media/Roboto-Bold.e31fcf18.ttf",
-  "static/media/font-awesome.min.css": "/lodestar/static/media/fontawesome-webfont.674f50d2.eot",
+  "static/media/font-awesome.min.css": "/lodestar/static/media/fontawesome-webfont.912ec66d.svg",
   "static/css/main.762d1368.chunk.css.map": "/lodestar/static/css/main.762d1368.chunk.css.map",
   "static/css/1.79d71a6d.chunk.css.map": "/lodestar/static/css/1.79d71a6d.chunk.css.map",
   "index.html": "/lodestar/index.html",
-  "precache-manifest.33ff10a002e244d057a12b02b8be4815.js": "/lodestar/precache-manifest.33ff10a002e244d057a12b02b8be4815.js",
+  "precache-manifest.0fee299c11e057cc695cf07a04786948.js": "/lodestar/precache-manifest.0fee299c11e057cc695cf07a04786948.js",
   "service-worker.js": "/lodestar/service-worker.js"
 }
